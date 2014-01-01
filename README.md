@@ -17,8 +17,8 @@ If I've missed anything, please make a pull request.
 Installation
 ------------
 
-    mkdir -p ~/.vim/layout
-    cp russian-jcuken-jp.vim ~/.vim/layout
+    mkdir -p ~/.vim/keymap
+    cp russian-jcuken-jp.vim ~/.vim/keymap
 
 Usage
 -----
