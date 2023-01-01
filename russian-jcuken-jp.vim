@@ -2,8 +2,8 @@
 " (slightly incompatible with XFree86 'ru' keymap - makes use of NUMERO SIGN)
 " Useful mainly with utf-8 but may work with other encodings
 
-" Maintainer:   Artem Chuprina <ran@ran.pp.ru>
-" Last Changed: 2001 Jun 23
+" Maintainer:   Michael Penkov <m@penkov.dev>
+" Last Changed: 2021-02-03
 
 " All characters are given literally, conversion to another encoding (e.g.,
 " UTF-8) should work.
@@ -42,6 +42,7 @@ X	Ч	CYRILLIC CAPITAL LETTER CHE
 I	Ш	CYRILLIC CAPITAL LETTER SHA
 O	Щ	CYRILLIC CAPITAL LETTER SHCHA
 {	Ъ	CYRILLIC CAPITAL LETTER HARD SIGN
+}	Ё	CYRILLIC CAPITAL LETTER IO
 S	Ы	CYRILLIC CAPITAL LETTER YERU
 M	Ь	CYRILLIC CAPITAL LETTER SOFT SIGN
 *	Э	CYRILLIC CAPITAL LETTER E
@@ -53,7 +54,8 @@ d	в	CYRILLIC SMALL LETTER VE
 u	г	CYRILLIC SMALL LETTER GHE
 l	д	CYRILLIC SMALL LETTER DE
 t	е	CYRILLIC SMALL LETTER IE
-[   ё   CYRILLIC SMALL LETTER IO
+[   ъ   CYRILLIC SMALL LETTER HARD SIGN
+]   ё   CYRILLIC SMALL LETTER IO
 ;	ж	CYRILLIC SMALL LETTER ZHE
 p	з	CYRILLIC SMALL LETTER ZE
 b	и	CYRILLIC SMALL LETTER I
